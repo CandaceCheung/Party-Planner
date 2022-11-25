@@ -1,3 +1,5 @@
+## Group Project
+
 # Database Guide
 
 All database seeding script files are stored in '/util/database/seedingFunctions'
